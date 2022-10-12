@@ -49,3 +49,14 @@ set termguicolors
 colorscheme plasma
 ```
 
+## More screenshots:
+
+![screenshot2](screenshots/screenshot2.png "Screenshot")
+
+![screenshot3](screenshots/screenshot3.png "Screenshot")
+
+![screenshot5](screenshots/screenshot5.png "Screenshot")
+
+![screenshot6](screenshots/screenshot6.png "Screenshot")
+
+![screenshot7](screenshots/screenshot7.png "Screenshot")
