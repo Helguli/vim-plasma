@@ -141,7 +141,7 @@ call <sid>hi('TermCursor',     s:plasmaCursorFront,         s:plasmaCursorBack, 
 call <sid>hi('NonText',        s:plasmaInactive,            {},                         'none',      {})
 call <sid>hi('Directory',      s:plasmaBlue,                {},                         'none',      {})
 call <sid>hi('ErrorMsg',       s:plasmaFront,               s:plasmaNegativeBack,       'none',      {})
-call <sid>hi('IncSearch',      s:plasmaBack,                s:plasmaFront,              'none',      {})
+call <sid>hi('IncSearch',      s:plasmaBack,                s:plasmaYellow,             'none',      {})
 call <sid>hi('Search',         s:plasmaBlack,               s:plasmaYellow,             'none',      {})
 call <sid>hi('MoreMsg',        s:plasmaBlueGreenAlt,        {},                         'bold',      {})
 call <sid>hi('ModeMsg',        {},                          {},                         'bold',      {})
@@ -195,7 +195,6 @@ call <sid>hi('RedrawDebugClear', s:plasmaFront, s:plasmaNeutralFront, 'none', {}
 call <sid>hi('RedrawDebugComposed', s:plasmaFront, s:plasmaPositiveFront, 'none', {})
 call <sid>hi('RedrawDebugRecompose', s:plasmaFront, s:plasmaNegativeFront, 'none', {})
 call <sid>hi('lCursor',        s:plasmaCursorFront,         s:plasmaCursorBack,         'none', {})
-call <sid>hi('Substitute', {}, {}, 'none', {})
 call <sid>hi('FloatShadow', {}, {}, 'none', {})
 call <sid>hi('FloatShadowThrough', {}, {}, 'none', {})
 
